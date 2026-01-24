@@ -16,6 +16,24 @@
 
 ---
 
+<h3 align="left">🎓 Education</h3>
+
+- **M.Sc. in Statistics**  
+  *Jagannath University, Dhaka*  
+  Focus: Statistical modeling, econometrics, survey data analysis  
+
+- **B.Sc. in Statistics**  
+  *Jagannath University, Dhaka*  
+  Coursework: Probability, regression analysis, multivariate statistics, sampling techniques  
+
+- **Higher Secondary Certificate (HSC)**  
+  *Hajigonj Degree College*  
+
+- **Secondary School Certificate (SSC)**  
+  *Nizmehar Model Pilot High School*  
+
+---
+
 <h3 align="left">🔍 Research Interests</h3>
 
 - Child nutrition & public health  
